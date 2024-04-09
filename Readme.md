@@ -6,3 +6,6 @@
 
 ### Entry point
     http://localhost:8080/hello-world
+
+### Добавил:
+    - иконку на вкладку через вложение в папку
